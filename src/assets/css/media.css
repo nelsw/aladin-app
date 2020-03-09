@@ -1,0 +1,1166 @@
+@media screen and (min-width:1900px){
+    .height-win{
+        height: calc(100vh - 280px);
+    }
+    .dummy-win{
+        height: calc(100vh - 280px);
+    }
+    }
+    
+    @media screen and (max-width:1900px){
+    
+    .dummy-win{
+        height: calc(100vh - 280px);
+    }
+    }
+    
+    @media screen and (max-width:992px){
+    .mar-right{
+        margin-right: 10px;
+    }
+    .dummy-win{
+        height: calc(100vh - 335px);
+    }
+    
+    #dapp-store .row{
+       margin-right: -10px !important;
+    
+    margin-left: -10px !important;
+    }
+    #dapp-store .col{
+      padding-right: 5px;
+    
+    padding-left: 5px;
+    }
+    .profile-save{
+        /* max-width: 100px; */
+        /* width: 100px; */
+        display: inline !important;
+     
+    }
+    .mob-button{
+        display: flex;
+        justify-content:center;
+        flex-wrap: wrap;
+    }
+    #dapp-store .mt-5{
+     margin-top: 20px !important;
+    }
+    
+    #dapp-store i {
+    
+        color: #bf2227;
+        font-size: 14px;
+    
+    }
+    #dapp-store p{
+        height: 39px;
+        -webkit-line-clamp: 2;
+    }
+    #dapp-store .ipad-mar {
+    margin: 0px;
+    
+    }
+    #dapp-store p{
+        font-size: 15px;
+        line-height: 18px;
+        margin-bottom: 5px !important;
+    }
+    #dapp-store h1{
+       font-size: 24px;
+    
+    line-height: 32px; 
+    }
+    }
+    
+    
+    
+    @media screen and (max-width:1500px)
+    {
+    .height-in{    height: calc(100vh - 20px);}
+     .bg-img-skd {background-size: 80%;}
+    
+    #doucment .card-c{margin-top: 0px;}
+    .navbar-nav .nav-item{
+    width: 100%;
+    }
+    #footer-text .text,.text {
+    text-align: left;
+    }
+    .height-421 {
+    height: 439px;
+    }
+    .font-50 {
+    font-size: 34px;
+    line-height: 41px;
+    padding-top: 32px;
+    }
+    .margin-left {
+    margin-left: 0;
+    padding:0px 0px  !important;
+    }
+    .dapp_store-icon {
+    width: 185px;
+    height: 185px;
+    background-color: #eeeeee;
+    border-bottom-left-radius: 45px;
+    position: absolute;
+    left: 0px;
+    top: -20px;
+    z-index: -3;
+    }
+    .row.m-66.mar-15.text-center
+    {
+        margin-top: 40px;
+    }
+    
+    .margin-left-124 {
+    margin-left: 90px;
+    }
+    .m-t-101 {
+    margin-top: 45px;
+    }
+    .p-101 {
+    padding: 60px 0px;
+    }
+    .nav.nav-pills {
+    margin: 20px 0 0 0;
+    }
+    .m-101 {
+    margin: 60px 0px;
+    }
+    .mar-top-220 {
+    margin-top: 187px;
+    }
+    .margin-80{
+       margin-left: 120px;
+    }
+    
+    .pad-40{
+    padding: 0px;
+    }
+    #myHeader .btn-grp{
+    
+    display: inline-flex; margin-left: 30px;   }
+    #myHeader .btn-grp{
+    
+    display: inline-flex;   }
+    .navbar-expand-xl .navbar-nav
+    {
+    width:inherit;
+    }
+    .card-c{
+    margin-top: 30px;
+    }
+    .card-c.text-center{
+    margin-top: 0px;
+    }
+    .btn-grp .mr-3{
+    margin: 0px !important;
+    }
+    .card-a {
+    padding: 30px 30px 30px 50px;
+    border-bottom-left-radius: 47px;
+    }
+    .pad-50-a {
+    padding: 30px 30px;
+    }
+    h2{
+    font-size: 31px;
+    line-height: 36px;
+    }
+    .mar-30 {
+    margin-left: 22px;
+    }
+    .ipad-mar{
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+    }
+    @media screen and (max-width:1361px){
+    
+        .height-in{
+            height: calc(100vh - 20px);
+        }
+        }
+    @media screen and (max-width:1280px)
+    {
+        #myHeader .btn-grp{
+    
+    display: inline-flex; margin-left: 30px;    }
+    .ipad-mar{
+    margin: 0px 10px;
+    }
+    
+    .m-66 {
+    margin-top: 66px;
+    }
+    
+    
+    }
+    @media screen and (max-width:1200px)
+    {
+        .dropdown-item {
+        border-bottom: 1px solid #e5e5e5 !important;
+    }
+    
+    .hover-effect{
+    margin-left: 0px;
+    }
+    .navbar-nav .nav-item{
+        width: 100%;
+       
+    }
+    .dropdown-menu a {
+        text-align: left;
+    }
+    .hover-effect svg {
+        fill: #333333;
+        width: 35px;
+    }
+    .navbar-expand-xl .navbar-nav.width-inherit{
+        width: 100% !important;
+    }
+    .nav-item.hover-effect {
+        padding: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+    padding: 9px 15px;  
+        width: 100%;
+        justify-content: space-between;
+    
+    }
+     .bg-img-skd {background-size: 80%;}
+    .navbar-nav .nav-item{
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+    }
+    .pad-bornone{
+    border-bottom: 1px solid #fff !important;
+    padding-bottom: 10px !important;
+    }
+    .navbar-nav  li:nth-child(4){
+    width: 100%;
+    border-bottom: 1px solid #ffff;
+    }
+    .navbar-nav  li:last-child{
+    width: 100%;
+    border-bottom: 1px solid #ffff;
+    margin: 0 auto;
+    text-align: center;
+    }
+    }
+    /*admin responisve*/
+    @media screen and (max-width:1024px)
+    {   
+         .bg-img-skd {background-size:80%;}
+    .ipad-mar{
+    margin: 0px;
+    }
+    .navbar-nav .nav-item{
+    width: 100%;
+    }
+    .star-container svg{
+        width: 16px !important;
+        height: auto;
+    }
+    
+    #insta-widget  .instagram-media {
+       margin: 0 auto !important;
+     
+        min-width: 100% !important;
+       
+        
+    }
+    
+    .margin-80 {
+        margin-left: 100px;
+    }
+    .flex-column-reverse-mob{
+    flex-wrap:wrap-reverse;
+    }   
+    .font-50 {
+    font-size: 34px;
+    line-height: 41px;
+    padding-top: 32px;
+    }
+    .margin-left {
+    margin-left: 0;
+    padding:0px 15px  !important;
+    }
+    .dapp_store-icon {
+    width: 150px;
+    height: 150px;
+    background-color: #eeeeee;
+    border-bottom-left-radius: 45px;
+    position: absolute;
+        left: 0px;
+        top: -20px;
+    z-index: -3;
+    }
+    .margin-left-124 {
+    margin-left: 90px;
+    }
+    .m-t-101 {
+    margin-top: 45px;
+    }
+    .p-101 {
+    padding: 60px 0px;
+    }
+    .nav.nav-pills {
+    margin: 20px 0 0 0;
+    }
+    .m-101 {
+    margin: 60px 0px;
+    }
+    .mar-top-220 {
+    margin-top: 187px;
+    }
+    .pad-40{
+    padding: 0px;
+    }
+    .btn-grp{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    }
+    .card-c{
+    margin-top: 30px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+    padding: 9px 15px;  
+    
+    }
+    footer{
+    text-align: left;
+    font-size: 14px;
+    }
+    .btn-grp .mr-3{
+    margin: 0px !important;
+    }
+    .card-a {
+    padding: 30px 30px 30px 50px;
+    border-bottom-left-radius: 47px;
+    }
+    .card-a img{
+    height: 60px;
+    }
+    
+    .card-d{
+        padding: 30px;
+    }
+    .pad-50-a {
+    padding: 30px 30px;
+    }
+    .height-421 {
+    height: inherit;
+    }
+    h2{
+    font-size: 31px;
+    line-height: 36px;
+    }
+    .mar-30 {
+    margin-left: 22px;
+    }
+    .float-none-mob{
+    float: right !important;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    }
+    .text{
+    padding-bottom: 20px;   
+    }
+    #footer-text .text {
+        text-align: left;
+    }
+    }
+    @media screen and (max-width:992px)
+    {
+        .height-pass,.p-41{
+    
+        /* height: calc(100vh - 180px) !important; */
+     }
+     .p-41-a{
+        height: calc(100vh - 160px) !important;
+     }
+    
+            .bg-img-skd {background-size:100%;}
+    .border-a{margin-top: 30px !important; }
+    .ipad-mara{
+    margin: 0px;
+    }
+    .margin-80{
+        margin-left: 77px;
+    }
+    .nav-item.hover-effect{
+        padding: 10px;
+    }
+    #meta-datbp .mart-30 {
+        margin-top: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        }
+    .over-flowa {
+        overflow-y: auto;
+        overflow-x: auto;
+        padding: 30px 0px;
+        height: inherit;
+    }
+    .show-hidea  {
+        display: none;
+    }
+    .show-mob {
+        display: block;
+    }
+    
+    .ipad-mar{
+    margin: 0px;
+    }
+    .navbar-expand-xl .navbar-nav {
+    width: 100%;
+    }
+    .navbar-nav .nav-item{
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+    }
+    .navbar-nav  li:nth-child(4){
+    width: 100%;
+    border-bottom: 1px solid #ffff;
+    }
+    .navbar-nav  li:last-child{
+    width: 100%;
+    border-bottom: 1px solid #ffff;
+    margin: 0 auto;
+    text-align: center;
+    }
+    .navbar-nav .nav-link{
+    margin-left: 0px !important;
+    }
+    
+    .dropdown-menu a{
+        text-align: left;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        width: 100%;
+    justify-content: space-between;
+    }
+    
+    .flex-column-reverse-mob{
+    flex-wrap:wrap-reverse;
+    } 
+    .dropdown-item{
+    border-bottom: 1px solid #e5e5e5  !important;   
+    }  
+    .dropdown-menu.show li:first-child{
+      border-top: 1px solid #e5e5e5  !important;    
+    }
+    .nav-item.dropdown.show{
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.10);
+    }
+    .font-50 {
+    font-size: 34px;
+    line-height: 41px;
+    padding-top: 32px;
+    }
+    .margin-left {
+    margin-left: 0;
+    padding:0px 0px  !important;
+    }
+    .dapp_store-icon {
+    width: 150px;
+    height: 150px;
+    background-color: #eeeeee;
+    border-bottom-left-radius: 45px;
+    position: absolute;
+    left: 0px;
+    top: -24px;
+    z-index: -3;
+    }
+    .margin-left-124 {
+    margin-left: 90px;
+    }
+    .m-t-101 {
+    margin-top: 45px;
+    }
+    .p-101 {
+    padding: 60px 0px;
+    }
+    .nav.nav-pills {
+    margin: 20px 0 0 0;
+    }
+    .m-101 {
+    margin: 60px 0px;
+    }
+    .mar-top-220 {
+    margin-top: 187px;
+    }
+    .pad-40{
+    padding: 0px;
+    }
+    .btn-grp{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    }
+    .card-c{
+    margin-top: 30px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+    padding: 9px 15px;  
+    }
+    footer{
+    text-align: center;
+    font-size: 14px;
+    }
+    .btn-grp .mr-3{
+    margin: 0px !important;
+    }
+    .card-a {
+    padding: 30px 30px 30px 50px;
+    border-bottom-left-radius: 47px;
+    }
+    .card-a img{
+    height: 60px;
+    }
+    .pad-50-a {
+    padding: 30px 30px;
+    }
+    .height-421 {
+    height: inherit;
+    justify-content: center;
+    }
+    h2{
+    font-size: 31px;
+    line-height: 36px;
+    }
+    .mar-30 {
+    margin-left: 22px;
+    }
+    .float-none-mob{
+    float: none !important;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    }
+    .text{
+    padding-bottom: 20px;   
+    }
+    .computer-icon{width: 80%;     display: block;  margin: 0px  auto !important; padding: 30px;}
+    .p-41{     height: inherit; }
+     .mar-top-220{
+        margin: 0px;
+     }
+     .card-a{
+       border-bottom-left-radius: 0px;
+     }
+      .card-b img{
+        height: 50px;
+      }
+     .card-a.pad-50-a , .card-b.pad-50-a{
+        margin-bottom: 30px;
+     }
+     .card-b{
+      border-top-right-radius: 0px;
+     }
+     .center-profile{padding-left: 80px !important;}
+    }
+    @media screen and (max-width:768px)
+    {.profile-save {
+        display: block;
+        
+        margin-top: 10px !important;
+    }
+    .font-mar-left span:first-child{
+        margin-left: 0px;
+    
+    }
+    #insta-widget .card-c {
+        box-shadow: none;
+        background: transparent;
+    
+    }
+    #insta-widget  .instagram-media {
+       margin: 0 auto !important;
+       width: 100% !important;
+        min-width: 100% !important;
+        max-width: 100% !important;
+        
+    }
+    .font-mar-left{
+      text-align: left !important;
+    
+    }.pos-absolutea{
+        top: 3px;
+    }
+    
+    .accordion.card {
+        max-width: 100%;
+    }
+    .modal-header .close{
+        z-index: 9999999999;
+    }
+         .center-profile{padding-left: 15px !important;}
+         .center-profile p {
+    
+        display: flex;
+        align-items: center;
+        padding-bottom: 10px;
+        margin: 0px;
+        justify-content: center;
+    
+    }
+    .password-a {
+        margin-top: 56px;
+        }
+    #modalLoginForm .pos-relative{
+          margin-bottom: 10px;
+    }
+    .right-align {
+        right: 35%;
+        top: 18px;
+    }
+    .request_demo_send{padding: 7px 30px !important;}
+    
+    #footer-text .text {
+        text-align: left;
+    }
+    .modal.left.fade.show .modal-dialog{
+        left: 0;
+            top: 0px;
+    }
+    .card-c.text-center{
+    margin-top: 30px;
+    }
+    
+    
+    .text-cen {
+    
+        text-align: center !important;
+    
+    }
+    .ipad-mar{
+    margin: 0px 10px;
+    }
+    
+     .profile-version {
+    
+        justify-content: center;
+        display: flex;
+    
+    }
+    
+     .height-pass,.p-41{
+    
+       /* height: calc(100vh - 262px) !important; */
+     }
+     .navbar-expand-xl .navbar-nav.width-inherit {
+        width: 100%;
+    }
+    #about .pos-relative{
+        margin-bottom: 10px;
+    }
+    #about .pos-relative{
+        margin-bottom: 10px;
+    }
+    .width-460 .pos-relative{
+        margin-bottom: 0px;
+    }
+    
+    .m-66 {
+    margin-top: 30px;
+    }
+     .mar-top-220{
+        margin: 0px;
+     }
+     .card-a{
+       border-bottom-left-radius: 0px;
+     }
+     .card-b{
+      border-top-right-radius: 0px;
+     }
+    /*sdk*/
+    #oracle img {margin: 0px; width: 100%; padding: 25px; }
+    .built-pad-30{display: block; }
+    .built-pad-30 img{margin: 0 auto !important; display: block; } 
+    .built-pad-30 p{display: block; width: 100%; text-align: center; margin-top: 10px; }
+    .marging-bottom-0{margin-bottom: 0px !important; }
+    .p-41{     height: inherit; }
+    .mob-center{
+        text-align: center !important;  
+        margin: 0px !important;
+        padding-bottom: 30px;
+    }
+    .computer-icon{width: 100%;   margin: 0px !important; padding: 30px;}
+    .mob-centera{
+       
+       
+        padding-bottom: 20px;
+    }
+    .mob-auto{
+        margin: 0 auto !important;
+    }
+    #dapp-store .col-lg-2{
+        padding: 0px;
+    
+    }
+    #dapp-store .sub-title{
+       font-size: 16px;
+    margin-bottom: 5px;
+    
+    }
+    
+    #dapp-store .card-c{
+        display: block;
+        left: 0px;
+    top: -30px;
+    }
+    .mob-mar-none{
+         margin: 0px !important;
+    }
+    }
+    @media screen and (max-width:767px)
+    {
+       .pagination {
+            margin: 2px 0;
+            white-space: nowrap;
+            justify-content: center !important;
+          }
+        .mob-centera{
+        text-align: center !important;  
+        margin: 0px !important;
+        padding-bottom: 30px;
+    }
+    .float-none-mob{
+        float: none !important;
+        margin: 0 auto;
+        padding-bottom: 20px;
+        }
+    hr{
+        margin-top: 2em;
+    }
+    #footer-text .text,footer {
+        text-align: center;
+    }
+    #myHeader .btn-grp
+    {
+        margin-left: 0px;
+    }
+    #Storage-more .card-d{padding: 15px;}
+    #Storage-more li:nth-Child(1){    display: inline-block;
+        vertical-align: top;
+        margin-right: 15px;}
+        #Storage-more li:nth-Child(2){    display: inline-block; 
+        vertical-align: top;
+        }
+         #Storage-more li  p span{font-size: 12px;}
+        #Storage-more img { width: 40px;}
+     
+    
+    .pos-absolutea{
+        top: 5px;
+    }
+    #form_email-a {
+         white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: block;
+        padding-right: 100px;
+    }
+    .m-20 {
+        margin-bottom: 30px;
+    }
+    .color-black {
+        margin-top: 20px !important;
+    }
+    #dapp-storea .row.mt-4 {
+        margin-top: 0px !important;
+    }
+    .hover-class{
+        padding-bottom: 20px;
+        text-align: center;
+        margin: 0 auto;
+        width: 200px;
+    }
+    
+    #meta-datbp .padb-30{
+        padding-bottom: 10px;
+    }
+    .mob-center{
+        text-align: center !important;  
+        margin: 0px !important;
+        padding-bottom: 30px;
+    }
+    .p-41{    height: calc(100vh - 227px) !important;}
+    .mob-auto{
+        margin: 0 auto !important;
+    }
+    .mob-mar-none{
+         margin: 0px !important;
+    }
+    .width-100{
+        margin-top: 10px;
+    }
+    #dapp-store .col{
+      -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%; 
+            padding-right: 5px;
+        padding-left: 5px;
+    
+    }
+    #dapp-store .col.col-12.d-flex {
+        padding-right: 5px !important;
+    }
+    #dapp-store .col-12{
+      -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%; 
+            padding-right: 15px;
+        padding-left: 15px;
+    }
+    .profile-save{display: block;    
+        margin-top: 10px !important;}
+    .padbt-40{padding-top: 40px; padding-bottom: 40px;  }
+    #Storage-pro button {
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+    #meta-data .sub-title1{
+    padding-bottom: 20px;
+    }
+    .center-profile p{    justify-content: center;}
+    .font-50 {
+    font-size: 24px;
+    line-height: 29px;
+    padding-top: 32px;
+    }
+    .profile-version{
+    justify-content: center;
+    display: flex;
+    }
+    .text-cen{text-align: center !important; }
+    .kyc-top-bar ul li p {
+    font-size: 13px;
+    line-height: 17px;
+    }   
+    .p-101 {
+    padding: 40px 0px;
+    }
+    #myHeader {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+    .slideanim img{
+    height: 50px;
+    width: auto;
+    }   
+    .img-fluid-b {
+    margin-bottom: 30px;
+    }
+    .btn {
+    padding: 10px 30px;
+    font-size: 16px;
+    }
+    .dapp_store-icon {
+    width: 97px;
+    height: 97px;
+    background-color: #eeeeee;
+    border-bottom-left-radius: 28px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -3;
+    }
+    .sub-title {
+    color: #333333;
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 26px;
+    }
+    h1{
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    line-height: 33px;
+    }
+    .pad-40{
+    padding-top: 20px;}
+    p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 28px;
+    }
+    .mar-30 {
+    margin-left: 0px;
+    text-align: center;
+    }
+    .card-a .align-items-center{
+    flex-wrap: wrap;
+    }.card-a img {
+    height: 45px;
+    margin-bottom: 10px;
+    }
+    .m-66 {
+    margin-top: 15px;
+    }
+    .mar-top-220 {
+    margin-top: 0px;
+    }
+    .card-b{
+    border-top-right-radius: 0px;
+    margin-bottom: 30px;
+    }
+    .pad-50-a {
+    padding: 20px 10px;
+    }
+    .card-a{
+    border-bottom-left-radius: 0px;
+    margin-bottom: 30px;
+    padding: 20px 15px;
+    }
+    .card-a p, .card-b p {
+    font-size: 16px;
+    margin-bottom: 0px;
+    }
+    .m-t-101 {
+    margin-top: 30px;
+    }
+    .margin-left-124 {
+    margin-left: 0;
+    margin-top: 30px;
+    }
+    .padb-30 {
+    padding-bottom: 30px;
+    }
+    h2 {
+    font-size: 25px;
+    line-height: 30px;
+    }
+    h3 {
+    font-size: 16px;
+    line-height: 26px;
+    }
+    h4 {
+    font-size: 26px;
+    }
+    .ipad-mar{
+    margin: 0px;
+    }
+    .card-b img {
+    height: 45px;
+    margin-bottom: 10px;
+    }
+    .img-class-50{
+    height: 55px !important;
+    }
+    /*sdk*/
+    .computer-icon{width: 100%;   margin: 0px !important; padding: 30px;}
+    .pad-20{padding-top: 20px; }
+    .marging-top{margin-top: 0px !important; }
+    .marging-bottom-0{margin-bottom: 0px !important; } 
+    .p-41{     height: inherit; } 
+    /*setting css*/
+    #hover-effect-set h4{font-size: 20px;line-height: 24px;
+    }
+    
+    .chat-screen img{width: 45px; height: auto;}
+    .chat-screen .text {padding-top: 10px; padding-bottom: 0px;}
+    .right-align {
+        right: 215px;
+        top: 13px;
+    }
+    .p-41-a{
+        height: inherit !important;
+     }
+    .pad-mob-20{
+     
+       padding-bottom: 20px;
+    }
+    .pad-mob-10{
+     
+       padding-bottom: 10px;
+    }
+    #Tokens-bp .border-a {
+        margin-top: 20px;
+    }
+    .d-mob-block {
+          display: block;
+        width: 100%;
+        margin-top: 10px;
+    
+    }
+    .accordion.card{
+        max-width: 100%;
+    }
+    .d-mob-blocka {
+        display: inherit;
+        width: 100%;
+        padding-top: 20px;
+    }
+    .mar-0{
+        margin-top: 0px !important;
+    }
+    }
+    @media screen and (max-width:575px)
+    {
+    body::-webkit-scrollbar{display: none;}    
+    }
+    @media screen and (max-width:479px)
+    {
+        .mng-resrc .btn.ml-5{
+            margin-left: 4px !important;
+        }
+        .mng-resrc .btn.mr-5{
+            margin-right: 10px !important;
+        }
+        .chngpassword{
+            height: calc(100vh - -200px)!important;
+        }
+    }
+    @media screen and (max-width:375px)
+    {
+    footer .ml-3.mr-3   {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    }
+    
+    
+    }
+    @media screen and (max-width:360px)
+    {
+        #resource-btn .btn {
+            padding: 10px 20px;
+            font-size: 15px;
+            margin: 5px;
+        }
+    }
+    @media screen and (max-width:330px)
+    {
+        #blog .color-black {
+        display: flex;
+       align-items: flex-start !important;
+       }
+    }
+    @media screen and (max-width:320px)
+    {
+    .btn {
+        padding: 10px 30px;
+        font-size: 15px;
+    }
+    #resource-btn .btn {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+  
+    .modal.left.fade.show .modal-dialog {
+        left: 0;
+        top: 0px;
+        /* padding: 10px; */
+        padding-right: 44px;
+    }       
+    
+    }
+    
+    @media only screen and (max-width: 1500px) and (min-width:1000px)  {
+      #dapp-store .col-lg-2 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%;
+        margin-bottom: 30px;
+    }
+    .navbar-expand-xl .navbar-nav.width-inherit {
+        width: 50%;
+    }
+    .ipad-mar{
+        margin: 0px;
+    }
+    
+    #blog-a .padding-17{
+        padding: 20px 20px 20px 20px; 
+    }
+    .padding-17{
+        padding: 20px 0px 0px 0px; 
+    }
+    #dapp-store .card-c{
+        left: 0px;
+    top: -30px;
+    }
+    #dapp-store .mt-4 ,#dapp-store  .mt-5{
+        margin-left: -3px;
+    
+    }
+    #dapp-store .col-lg-2{
+        padding: 5px;
+    }
+    #dapp-store .d-none-a{
+       display: none; 
+    }
+    }
+    @media only screen and (max-width: 1350px) and (min-width:1300px)  {
+    
+    .navbar-expand-xl .navbar-nav.width-inherit {
+        width: 46%;
+    }
+    .p-41-a {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        height: calc(100vh - 106px) !important;
+    }
+    .p-41-a {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        height: calc(100vh - 106px) !important;
+    }
+    }
+    @media only screen and (max-width: 1500px) and (min-width:1351px)  {
+    
+    .navbar-expand-xl .navbar-nav.width-inherit {
+        width: 44%;
+    }
+    .p-41-a {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        height: calc(100vh - 106px) !important;
+    }
+    
+    }
+    @media only screen and (max-width: 1700px) and (min-width:1500px)  {
+    
+    .p-41 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        height: calc(100vh - 106px);
+    }
+    }
+    @media only screen and (max-height: 736px)  and (orientation: portrait) {
+    
+        .p-41{
+              height: inherit !important;
+        }
+        .height-pass{
+            height: calc(100vh - 232px) !important;
+        }
+        .p-41-b {
+        height: calc(100vh - 227px) !important;
+    }
+    
+       
+    
+        
+    }
+    @media only screen and (max-height: 568px)  {
+    
+      
+        .p-41-b {
+        height: inherit !important;
+    }
+       
+    
+        
+    }
+    @media only screen and (max-height: 855px) and (min-height: 737px) and (orientation: portrait)  {
+    
+        .p-41{
+              height: calc(100vh - 235px) !important;
+        }
+    }
+    

@@ -1,0 +1,67 @@
+{
+  "presets": [
+    [
+      "es2015",
+      {
+        "modules": false
+      }
+    ],
+    "next/babel",
+    "react",
+    "stage-2"
+  ],
+  "plugins": [
+    "syntax-dynamic-import",
+    "transform-decorators-legacy",
+    "transform-object-rest-spread",
+    "react-hot-loader/babel",
+    "@babel/plugin-proposal-export-default-from",
+    "@babel/plugin-proposal-export-namespace-from",
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "legacy": true
+      }
+    ],
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "decoratorsBeforeExport": true
+      }
+    ],
+    [
+      "@babel/plugin-proposal-class-properties",
+      {
+        "loose": true
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": [
+          "./src/"
+        ],
+        "alias": {
+          "@components": "./src/components",
+          "@common": "./src/common",
+          "@styled": "./src/components/styled",
+          "@utils": "./src/utils",
+          "@ui/components": "./src/components/ui/components",
+          "@ui/containers": "./src/components/ui/containers",
+          "ui/common": "./components/ui/common",
+          "log4js": "./src/logger.js",
+          "@images": "./src/images"
+        }
+      }
+    ],
+  ],
+  "env": {
+    "test": {
+      "plugins": [
+        "transform-decorators-legacy",
+        "transform-object-rest-spread",
+        "istanbul"
+      ]
+    }
+  }
+}
